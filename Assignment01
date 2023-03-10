@@ -1,0 +1,57 @@
+Linux commands:
+Cloud and DevOps
+Name: Tanishka Deshpande
+Roll no: 323013
+PRN: 22010175
+Class: TY / C / C1
+Assignment 1 – Study Linux Commands
+1. ls – most frequently used command in linux to list directories
+2. pwd – print working directory command in linux
+3. cd – navigation through the directories
+4. mkdir – command used to create new directory in linux
+5. mv – move or rename a file
+6. cp – copying files.
+7. rm – Delete file or directory
+8. cat – display file contents on terminal
+9. clear – clears the terminal screen
+10. echo – prints text following this command
+11. less – command that displays paged outputs in the terminal
+12. man – displays manual all pages of linux commands
+13. uname - gets basic info about OS
+14. whoami – gets the active username
+15. tar – command to extract and compress files
+16. grep – search for string within output
+17. head – return specified number of lines from top
+18. tail – return specified number f lines from bottom.
+19. diff – find different between two lines.
+20. cmp – allows to check if two files are identical
+21. comm – combined functionality of cmp and diff
+22. sort – to sort content in a file while outputting.
+23. export – export environment variables in linux
+24. zip – zip files in linux
+25. unzip – unzip files in linux
+26. service – start and stop services
+27. ps – isplay all active processes
+28. kill – kills all active processes
+29. df – display disk filesystem informaion
+30.mount – mount file systems in linux
+31. chmod – change file permissions
+32.chown –granting ownership to files or folders
+33.ifconfig – display network interfaces and IP addresses
+34. traceroute – trace all network hops ro reach destination
+35. wget – direct download files from internet
+36. ufw – firewall command
+37. iptables – base firewall for all other firewalls utilities to interface with
+38. apt – package managers depending on distro
+39. sudo – command to escalate privileges in linux
+40. cal – view a command-line calendar
+41. alias – create your own shortcuts for regularly used commands
+42. dd - used for creating bootable usb sticks
+43. whereis – locate binary source and manual pages for a command
+44. whatis – find what a command is used for
+45. top - view active processes that live with their system usage
+46. useradd and usermod – to add and modify users data
+47. w -- - to check how many users logged into linux
+48. date – to check current time in linux
+49. ls -a – list hidden files in directory
+50. rm -rf – remove directory with files
